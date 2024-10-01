@@ -1,6 +1,6 @@
 # Capital University - Data Science Individual Study Capstone Project
 ### Nicolas Huang
-### Dr. Johnson
+### Dr. Leigh Johnson
 ### 1/24/2023 - 4/30/2023
 
 ## Senior Study Capstone Project Details
