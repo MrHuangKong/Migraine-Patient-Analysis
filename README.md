@@ -59,4 +59,4 @@ This project was presented at the **Capital University Science Symposium** as a 
 ### Want to Clone this Repository? 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/capstone-migraine-analysis.git
+   git clone https://github.com/MrHuangKong/Migraine-Patient-Analysis.git
